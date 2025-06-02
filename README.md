@@ -6,6 +6,7 @@
 
 ###
 
+<h2 align="center"></h2>
 
 <p align="center">Here are some technologies I work with:</p>
 

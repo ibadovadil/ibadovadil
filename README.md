@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adil Ibadov</h1>
+<h1 align="center">Hi, I'm Adil Ibadov 👋</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 <h2 align="center">I code with</h2>
 
-###
+<p align="center">Here are some technologies I work with:</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -37,3 +37,5 @@
 </div>
 
 ###
+
+<p align="center">Thanks for visiting my profile 😊</p>

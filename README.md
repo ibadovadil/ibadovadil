@@ -38,12 +38,6 @@
   </a>
 </div>
 
-<div align="center">
-  <a href="https://ibadovadil-portfolio.vercel.app/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibadovadil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
-  </a>
-</div>
-
 ###
 
 <p align="center">Thanks for visiting my profile 😊</p>

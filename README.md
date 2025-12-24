@@ -33,7 +33,15 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibadovadil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
+  <a href="https://ibadovadil-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://ibadovadil-portfolio.vercel.app/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ibadovadil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
+  </a>
 </div>
 
 ###
